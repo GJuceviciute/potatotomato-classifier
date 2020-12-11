@@ -1,4 +1,4 @@
-# potatotomato-classifier
+# Potato-tomato classifier
 It's a basic classifier trained with? resnet 18 on pictures obtained using Bing Search API. It was inspired by and heavily based on fastai lessons (available here: https://course.fast.ai) and book "Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD" which you can buy or read as interactive Jupyter Notebooks for free.
 
 In order to "play" with the potato-tomato classifier, you can:
